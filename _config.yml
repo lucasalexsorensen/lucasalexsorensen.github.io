@@ -110,8 +110,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: lucasalexsorensen # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+disqus_shortname: # put your disqus shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
