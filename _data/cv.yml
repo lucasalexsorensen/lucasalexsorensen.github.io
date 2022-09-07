@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Lucas Alexander Sørensen
-    - name: Date of Birth
-      value: 2nd February 1999
     - name: Languages
       value: English, Danish
 
@@ -24,13 +22,13 @@
     - title: Machine Learning Developer
       institution: Kontolink
       year: 2018 - present
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Software Developer
       institution: Comparo
       year: 2016 - 2018
@@ -61,17 +59,18 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <a href="https://www.matthewtancik.com/nerf">Neural Radiance Fields</a>
+        - <a href="https://openai.com/blog/clip/">CLIP</a>
+        - Large-scale pre-training for Document AI (e.g. <a href="https://arxiv.org/pdf/2204.08387.pdf">LayoutLMv3</a>)
+    - title: Other
       items:
-        - Description 1.
-        - Description 2.
+        - <a href="https://bmild.github.io/fourfeat">Fourier features</a>
+        - The <a href="https://www.rust-lang.org/">Rust</a> programming language
 
 # - title: Other Interests
 #   type: list
