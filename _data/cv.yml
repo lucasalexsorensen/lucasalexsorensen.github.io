@@ -66,11 +66,11 @@
       items: 
         - <a href="https://www.matthewtancik.com/nerf">Neural Radiance Fields (NeRFs)</a>
         - <a href="https://openai.com/blog/clip/">OpenAI CLIP</a>
-        - Large-scale pre-training for Document AI (e.g. <a href="https://arxiv.org/pdf/2204.08387.pdf">LayoutLMv3</a> and <a href="https://github.com/clovaai/donut">Donut</a>)
+        - Large-scale pre-training for Document AI (e.g. <a href="https://arxiv.org/abs/2204.08387.pdf">LayoutLMv3</a> and <a href="https://github.com/clovaai/donut">Donut</a>)
     - title: Signal Processing / Machine Learning
       items:
-        - <a href="https://arxiv.org/pdf/1806.08734.pdf">Spectral Bias of Neural Networks</a>
-        - <a href="https://arxiv.org/pdf/1702.08591.pdf">The Shattered Gradients Problem</a>
+        - <a href="https://arxiv.org/abs/1806.08734.pdf">Spectral Bias of Neural Networks</a>
+        - <a href="https://arxiv.org/abs/1702.08591.pdf">The Shattered Gradients Problem</a>
         - <a href="https://arxiv.org/abs/2006.09661">Sinusoidal Representation Netwroks (SIRENs)</a>
         - <a href="https://bmild.github.io/fourfeat">Fourier features</a>
     - title: High Performance Computing
