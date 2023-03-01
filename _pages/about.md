@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a machine learning developer based in Copenhagen, Denmark. Currently, I'm at [Kontolink](https://kontolink.com) working towards creating the first fully-automated accounting system. I'm especially interested in computer vision, signal processing and high performance computing.
 
-Occasionally, I might write a [blog post](https://lucasalexsorensen.super.site/) about what I've been up to.
+Occasionally, I might write a [blog post](https://lucasalexsorensen.notion.site/Blog-30ad51afd5d84fd8904966c422a1d28e) about what I've been up to.
