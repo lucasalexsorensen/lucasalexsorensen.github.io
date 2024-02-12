@@ -19,16 +19,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Machine Learning Developer
+    - title: Co-Founder & Machine Learning Engineer
       institution: Kontolink
       year: 2018 - present
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
     - title: Software Developer
       institution: Comparo
       year: 2016 - 2018
@@ -40,24 +33,6 @@
     - title: Junior Developer
       institution: Secunia
       year: 2014 - 2015
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
 
 - title: Interests
   type: nested_list
@@ -73,13 +48,16 @@
         - <a href="https://arxiv.org/abs/1702.08591.pdf">The Shattered Gradients Problem</a>
         - <a href="https://arxiv.org/abs/2006.09661">Sinusoidal Representation Netwroks (SIRENs)</a>
         - <a href="https://bmild.github.io/fourfeat">Fourier features</a>
+    - title: Information Retrieval
+      items:
+        - <a href="https://qdrant.tech/articles/hybrid-search">Hybrid Search</a> methods
+        - <a href="https://www.sbert.net/examples/applications/cross-encoder/README.html">Cross-Encoders</a>
     - title: High Performance Computing
       items:
         - <a href="https://github.com/NVlabs/instant-ngp">instant-ngp</a>
         - <a href="https://github.com/simdjson/simdjson">simdjson</a>
         - The <a href="https://www.rust-lang.org/">Rust</a> programming language
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Programming Puzzles & Games
+      items:
+        - <a href="https://adventofcode.com/">Advent of Code</a>
+        - <a href="https://jaredkrinke.itch.io/sic-1">SIC-1</a>
