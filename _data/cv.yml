@@ -6,16 +6,6 @@
     - name: Languages
       value: English, Danish
 
-- title: Education
-  type: time_table
-  contents:
-    - title: MSc in Mathematical Modelling and Computation
-      institution: Technical University of Denmark
-      year: 2020 - 2022
-    - title: BSc in Mathematics and Technology
-      institution: Technical University of Denmark
-      year: 2017 - 2020
-
 - title: Experience
   type: time_table
   contents:
@@ -33,6 +23,16 @@
     - title: Junior Developer
       institution: Secunia
       year: 2014 - 2015
+
+- title: Education
+  type: time_table
+  contents:
+    - title: MSc in Mathematical Modelling and Computation
+      institution: Technical University of Denmark
+      year: 2020 - 2022
+    - title: BSc in Mathematics and Technology
+      institution: Technical University of Denmark
+      year: 2017 - 2020
 
 - title: Interests
   type: nested_list
